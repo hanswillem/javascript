@@ -1,2 +1,2 @@
 # javascript
-A small collection of various javascript scripts
+A small collection of various javascript scripts.
