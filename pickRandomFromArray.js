@@ -1,4 +1,4 @@
-// Picks a random item from an array, without ever picking the same item twice in a row
+// A function tha picks a random item from an array, without ever picking the same item twice in a row
 
 myList = ['appels', 'peren', 'bananen'];
 
