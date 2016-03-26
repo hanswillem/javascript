@@ -68,6 +68,7 @@ function Vector(x, y) {
         return Math.acos(d/m);
     }
     
+    
     // returns a  vector perpendicular to this vector
     this.perp = function() {
         return new Vector(-1 * this.y, this.x);
