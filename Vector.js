@@ -69,7 +69,7 @@ function Vector(x, y) {
     }
     
     
-    // returns a  vector perpendicular to this vector
+    // returns a vector perpendicular to this vector
     this.perp = function() {
         return new Vector(-1 * this.y, this.x);
     };
